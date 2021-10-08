@@ -1,2 +1,3 @@
-# windows-clone
-simple windows shell clone in html and css using bootstrap
+# Windows Clone
+Simple Clone Windows Shell Interface in HTML5 and CSS3
+*in development*
