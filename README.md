@@ -4,4 +4,4 @@
 
 
 Simple Clone Windows Shell Interface in HTML5 and CSS3
-*in development*
+DEMO: [\[CLICK HERE\]](https://erickvinicios.github.io/MacClone/)
