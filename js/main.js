@@ -32,7 +32,7 @@ $(".right-btn-menu li").click(function(){
     
     switch($(this).attr("data-action")) {
         
-        case "first": $("body").css({"background": 'url("../img/w2.jpg") center / cover no-repeat'}); break;
+        case "first": $("body").css({"background": 'url("img/w2.jpg") center / cover no-repeat'}); break;
     }
   
     $(".right-btn-menu").hide(100);
